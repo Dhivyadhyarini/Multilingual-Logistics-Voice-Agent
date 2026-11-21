@@ -1,0 +1,9 @@
+# Tested with livekit-agents 1.8.x
+livekit-agents[silero,turn-detector]>=1.8
+livekit-plugins-openai>=1.8        # used to talk to Groq (OpenAI-compatible API)
+livekit-plugins-silero>=1.8
+livekit-plugins-turn-detector>=1.8
+livekit-plugins-noise-cancellation>=0.2
+livekit-api>=1.0
+python-dotenv>=1.0
+certifi
